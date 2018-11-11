@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="z1%28Pokupka_Ruchek%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z2%28S and L of circle%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z3%28Amount of 0%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z4%28Prime Numbers%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z5%28TimeCorrect%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z6(Fibonacci).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z7(EClock2).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z8(Tomorrow).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z9(CorrectDate).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z10(2inRow).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z11(AmountOfLines).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z12%28NextAfterMin%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z13%28ReplaceMinAndMaxLines%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z14(NYTreeToys).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z15(MoreAdjacent)cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z16(MoreDifferent).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z17%28SantaDiet%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z18(Sales).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z19%28Game%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z20(GAI).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z21%28MissingNumber%29cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z22%28Rabits%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z23%28BugsAndSpiders%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z24%28buyingSweets%29cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z25(fractionsOperations).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z26(Av.Speed).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
