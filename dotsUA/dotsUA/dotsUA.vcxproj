@@ -132,6 +132,8 @@
     <ClCompile Include="z24%28buyingSweets%29cpp.cpp" />
     <ClCompile Include="z25(fractionsOperations).cpp" />
     <ClCompile Include="z26(Av.Speed).cpp" />
+    <ClCompile Include="z27(HappyTicket).cpp" />
+    <ClCompile Include="z28(FiveNumbers).cpp" />
     <ClCompile Include="z5%28TimeCorrect%29.cpp" />
     <ClCompile Include="z4%28Prime Numbers%29.cpp" />
     <ClCompile Include="z1%28Pokupka_Ruchek%29.cpp" />

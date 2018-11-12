@@ -93,5 +93,11 @@
     <ClCompile Include="z26(Av.Speed).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="z27(HappyTicket).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="z28(FiveNumbers).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
